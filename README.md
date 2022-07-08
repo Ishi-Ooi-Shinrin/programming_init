@@ -1,6 +1,7 @@
 ## フォルダ、ファイルの説明
-#### ・
-
+#### ・Python_startup.ipynb：演習用ファイル（Google Colab）
+#### ・Python_startup_answer.ipynb：演習用ファイルの解答例（Google Colab）
+#### ・Demoフォルダ：実演で動かしたプログラムのソースコード
 #
 
 
